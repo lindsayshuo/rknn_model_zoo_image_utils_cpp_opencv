@@ -3,7 +3,6 @@
 #include <dirent.h>
 #include <math.h>
 #include <sys/time.h>
-#include <opencv2/opencv.hpp>
 #include "im2d.h"
 #include "drmrga.h"
 #include <opencv2/opencv.hpp>
